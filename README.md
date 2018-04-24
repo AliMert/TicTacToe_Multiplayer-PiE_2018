@@ -35,7 +35,7 @@ sending first request to PLAYER-2
 Listening for incoming connections...
 ```
 
- Every player should run the script called myclient.py **(the server accpets only two players, it denied all requests from more players)**
+ Every player should run the script called myclient.py **(the server accepts only two players, it denied all requests from more players)**
 
 ```
 python3 myclient.py
@@ -68,4 +68,4 @@ please enter a number 1-9:
 ```
 
 
-## Project made by **Ali Bert** and **Alexis OUKSEL**
+## Project made by **Ali Mert** and **Alexis OUKSEL**
